@@ -1,0 +1,10 @@
+C:\Users\DANIEL GGUERRA\source\repos\Bomba combustivel\Bomba combustivel\bin\Debug\Bomba combustivel.exe.config
+C:\Users\DANIEL GGUERRA\source\repos\Bomba combustivel\Bomba combustivel\bin\Debug\Bomba combustivel.exe
+C:\Users\DANIEL GGUERRA\source\repos\Bomba combustivel\Bomba combustivel\bin\Debug\Bomba combustivel.pdb
+C:\Users\DANIEL GGUERRA\source\repos\Bomba combustivel\Bomba combustivel\obj\Debug\Bomba combustivel.csprojAssemblyReference.cache
+C:\Users\DANIEL GGUERRA\source\repos\Bomba combustivel\Bomba combustivel\obj\Debug\Bomba_combustivel.Form1.resources
+C:\Users\DANIEL GGUERRA\source\repos\Bomba combustivel\Bomba combustivel\obj\Debug\Bomba_combustivel.Properties.Resources.resources
+C:\Users\DANIEL GGUERRA\source\repos\Bomba combustivel\Bomba combustivel\obj\Debug\Bomba combustivel.csproj.GenerateResource.cache
+C:\Users\DANIEL GGUERRA\source\repos\Bomba combustivel\Bomba combustivel\obj\Debug\Bomba combustivel.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL GGUERRA\source\repos\Bomba combustivel\Bomba combustivel\obj\Debug\Bomba combustivel.exe
+C:\Users\DANIEL GGUERRA\source\repos\Bomba combustivel\Bomba combustivel\obj\Debug\Bomba combustivel.pdb
